@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        kit f1
+        Boilerplate project
         </p>
         <a
           className="App-link"
